@@ -2,7 +2,7 @@ import { expect } from "chai";
 import {
   checkUserTaskCompletion,
   isFanCodeCity,
-} from "../src/services/getMethods.js";
+} from "../src/utils/getMethods.js";
 
 describe("FanCode - Assignment", function () {
   this.timeout(10000); // Allow time for API requests

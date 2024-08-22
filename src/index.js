@@ -1,4 +1,4 @@
-import { checkUserTaskCompletion } from "./services/getMethods.js";
+import { checkUserTaskCompletion } from "./utils/getMethods.js";
 
 const run = async () => {
   try {
